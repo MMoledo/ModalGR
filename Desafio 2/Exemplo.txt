@@ -1,0 +1,6 @@
+Nome Completo|E-mail|Data de Nascimento
+João Silva|joao.silva@email.com|15/02/1990
+Maria Santos|maria.santos@email.com|03/06/1985
+Carlos Pereira|carlos.pereira@email.com|20/11/1995
+Ana Souza|ana.souza@email.com|10/04/1992
+Pedro Oliveira|pedro.oliveira@email.com|28/09/1988
