@@ -50,8 +50,8 @@ pip install -r requirements.txt
 ```
 
 As bibliotecas necessárias incluem:
-cryptography: Provedor dos algoritmos de criptografia utilizados.
-os: Utilizado para gerar salts seguros e manipular arquivos no sistema.
+- `cryptography`: Provedor dos algoritmos de criptografia utilizados.
+- `os`: Utilizado para gerar salts seguros e manipular arquivos no sistema.
 
 
 
